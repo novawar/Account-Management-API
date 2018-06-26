@@ -1,0 +1,13 @@
+{
+  "name": "AC_API",
+  "version": "0.0.1",
+  "description": "API Account Management Node.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "4.15.3 ",
+    "body-parser": "^1.17.2",
+    "node-couchdb": "^1.1.1"
+  }
+}
